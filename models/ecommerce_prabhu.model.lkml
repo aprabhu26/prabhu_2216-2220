@@ -1,6 +1,7 @@
 connection: "looker-dcl-data"
 
 # include all the views
+# testing
 include: "/views/**/*.view"
 
 datagroup: ecommerce_prabhu_default_datagroup {
